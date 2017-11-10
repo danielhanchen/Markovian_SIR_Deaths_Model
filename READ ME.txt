@@ -1,0 +1,37 @@
+
+
+	Hello!
+
+
+	To execute code, please read the system 
+	documentation in the email.
+
+	The ZikaHack folder has 5 sub-folders:
+
+	1. Model Output (Can import)
+		You can import the pre-trained models
+		as specified in the sys docs. We included
+		the Deep Neural Net for both Spanish
+		and Portugese.
+
+	2. Outbreak Confidence
+		This folder has the HTML code + real
+		Python Ipython Notebook code.
+
+	3. Recurrence Probability
+		This folder has the Julia code for the
+		Recurrence Probability Model. We also
+		included our report and how we implemented
+		it.
+
+	4. Testing data
+		This folder has all the data in CSV format
+		that we tested our models on.
+
+	5. Training data
+		This folder has all the data in CSV format
+		that we trained our models on.
+
+
+
+	
